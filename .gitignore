@@ -40,3 +40,8 @@ firebase-debug.log
 build/
 *.cache
 .eslintcache
+
+# Ignore environment variables
+.env
+
+echo "backend/theserviceAccountKey.json" >> .gitignore
