@@ -44,4 +44,4 @@ build/
 # Ignore environment variables
 .env
 
-echo "backend/theserviceAccountKey.json" >> .gitignore
+backend/theserviceAccountKey.json
