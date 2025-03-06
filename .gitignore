@@ -1,0 +1,42 @@
+# Node.js
+node_modules/
+npm-debug.log
+yarn-debug.log
+yarn-error.log
+.env
+*.env
+
+# Firebase & Service Accounts
+serviceAccountKey.json
+
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+debug.log*
+out.log*
+
+# Editor/IDE Files
+.vscode/
+.idea/
+.DS_Store
+*.swp
+
+# Build Files
+build/
+dist/
+.cache/
+coverage/
+public/
+
+# Firebase & Google Cloud
+firebase-debug.log
+.firebase/
+.firestore/
+.functions/node_modules/
+
+# React
+build/
+*.cache
+.eslintcache
