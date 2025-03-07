@@ -1,11 +1,11 @@
-# 🍽️ FoodLink - Connecting Surplus Food to Those in Need
+# 🍽️ HungerAid - Connecting Surplus Food to Those in Need
 
-## 🌍 About FoodLink
-Every day, tons of food go to waste while millions of people struggle with hunger. **FoodLink** aims to bridge this gap by connecting restaurants, grocery stores, and individuals with surplus food to people and organizations in need. 
+## 🌍 About HungerAid
+Every day, tons of food go to waste while millions of people struggle with hunger. **HungerAid** aims to bridge this gap by connecting restaurants, grocery stores, and individuals with surplus food to people and organizations in need. 
 
 This project is built to support **UN Sustainable Development Goal 2: Zero Hunger**, making it easier to donate, find, and distribute food efficiently.
 
-## 🎯 What Makes FoodLink Special?
+## 🎯 What Makes HungerAid Special?
 ✅ **Find & Share Surplus Food Easily** – A real-time map helps users locate available food near them.  
 ✅ **AI-based Expiration Tracker** – Helps users keep track of food shelf life.  
 ✅ **Different User Roles** – Whether you're a donor, a receiver, or an admin, there's a role for you.  
@@ -30,8 +30,8 @@ Before you begin, make sure you have:
 ### Setting Up the Backend
 1. Clone the project:
    ```sh
-   git clone https://github.com/yourusername/FoodLink.git
-   cd FoodLink
+   git clone https://github.com/yourusername/HungerAid.git
+   cd HungerAid
    ```
 2. Install dependencies:
    ```sh
@@ -72,7 +72,7 @@ Before you begin, make sure you have:
 - Blockchain-based tracking for transparency.
 
 ## 🤝 Get Involved
-FoodLink is open for contributions! If you have ideas, spot issues, or want to help improve the platform, feel free to submit a pull request or open an issue.
+HungerAid is open for contributions! If you have ideas, spot issues, or want to help improve the platform, feel free to submit a pull request or open an issue.
 
 ## 📜 License
 This project is licensed under the MIT License.
@@ -82,4 +82,3 @@ This project is licensed under the MIT License.
 - Built with love and open-source technology.
 
 🚀 Join us in making a real difference—let’s reduce food waste and fight hunger together! 🌱
-
