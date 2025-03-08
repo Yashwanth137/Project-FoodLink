@@ -45,3 +45,4 @@ build/
 .env
 
 backend/theserviceAccountKey.json
+backend/serviceAccountKey.json
