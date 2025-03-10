@@ -1,4 +1,4 @@
-# 🍽️ HungerAid - Connecting Surplus Food to Those in Need
+# 🍽️ HungerAid - Connecting Surplus Food to Those in Need,
 
 ## 🌍 About HungerAid
 Every day, tons of food go to waste while millions of people struggle with hunger. **HungerAid** aims to bridge this gap by connecting restaurants, grocery stores, and individuals with surplus food to people and organizations in need. 
